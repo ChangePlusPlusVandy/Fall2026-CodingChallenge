@@ -52,7 +52,7 @@ Your application should allow users to:
 - Add and remove content from collaborative collections
 - Make the application look **good**
 
-You can take inspiration from existing applications of this nature like Pinterest or make or own interpretation, **No option is necessarily better than the others.**
+You can take inspiration from existing applications of this nature like Pinterest or make your own interpretation, **No option is necessarily better than the others.**
 
 ## Deliverables 
 **Frontend**  
