@@ -56,14 +56,14 @@ You can take inspiration from existing applications of this nature like Pinteres
 
 ## Deliverables 
 **Frontend**  
-The frontend serves as the way that a user would interact with your program and play the game. You have a lot of flexibility in terms of how you choose to build it ranging from a simple executable (ran from the terminal) to a website, app, or any (reasonable) technology you can think of. Feel free to get creative with styling components\!
+The frontend serves as the way that a user would interact with your application. You have a lot of flexibility in terms of how you choose to build it ranging from a simple executable (ran from the terminal) to a website, app, or any (reasonable) technology you can think of. Feel free to get creative with styling components\!
 
 **Backend**  
 The backend consists of a RESTful API that can be accessed by the frontend and should do the following:
 
 * Be a separate server from the frontend.  
-* Endpoints to create posts, get posts, like/unlike posts and add/view comments.  
-* Store posts in some sort of data structure. Bonus if you store it in a database\!
+* Endpoints to save images to a collection, delete images from a collection, share collections.  
+* Store collections in some sort of data structure. Props if you store it in a database\!
 
 **README**  
 Aside from adding, committing, and pushing your files to the repo, include a README.txt. INCLUDE YOUR FULL NAME AND VANDERBILT EMAIL IN THE README. A README is helpful because:
