@@ -102,12 +102,12 @@ Necessary - Gameplay works <br>
 3 Points: Well-structured project (routes, middleware, db schema), documented endpoints, clear error handling
 
 **Core Features: up to 3 points**  
-1 Point: Create collections, add to collections, remove from collections only (no sharing)
-3 Points: Also allows sharing with unique URL and collaboration on a collection
+1 Point: Create collections, add to collections, remove from collections only (no sharing)<br>
+3 Points: Also allows sharing with unique URL and collaboration on a collection<br>
 5 Points: Allows user accounts and sharing with accounts to collaborate and edit a collection
 
 **Data Handling: up to 5 points**  
-1 Point: Local storage persistence only
+1 Point: Local storage persistence only<br>
 3 Points: MongoDB/PostgreSQL/etc… database usage
 
 **Aesthetics: up to 3 points**  
