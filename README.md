@@ -37,13 +37,13 @@ Sometimes you find something online that you absolutely love. You save it somewh
 
 Your goal is to build a **Image Saving/Sharing App** where users can discover, save, organize, and share content with others.
 
-Users can create their own **collections**, save content to those collections, and collaborate with other users to build collections together.
+Users can create their own **collections**, save and edit content in those collections, and collaborate with other users to build collections together.
 
 Your application should allow users to:
 
 - Create individual boards/collections
 - Search for images or other content
-- **Pin/save** content to their collections
+- **save/edit** content in their collections
 - Remove content from collections
 - View their own collections
 - View other users' collections
@@ -102,24 +102,26 @@ Necessary - Gameplay works <br>
 3 Points: Well-structured project (routes, middleware, db schema), documented endpoints, clear error handling
 
 **Core Features: up to 3 points**  
-1 Point: Posts only (no likes or comments)  
-3 Points: Posts, likes and comments working fully
+1 Point: Create collections, add to collections, remove from collections only (no sharing)
+3 Points: Also allows sharing with unique URL and collaboration on a collection
+5 Points: Allows user accounts and sharing with accounts to collaborate and edit a collection
 
 **Data Handling: up to 5 points**  
-1 Point: In-memory storage only (resets on refresh)  
-3 Points: JSON/TXT storage  
-5 Points: MongoDB/SQL/etc… database usage
+1 Point: Local storage persistence only
+3 Points: MongoDB/PostgreSQL/etc… database usage
 
 **Aesthetics: up to 3 points**  
 1 Point: Plain but functional UI  
 2 Points: Some styling, responsive layout  
 3 Points: Polished look (consistent styling, responsive, feels like a real app)
 
-**Creativity / Bonus Features: up to 7 points**  
+**Creativity / Bonus Features: up to 8 points**  
 Some EC features could be:
 
-* Hashtags  
-* Editing comments
+* Private/Public Collection toggling
+* Notifications on edit
+* Attempt to achieve architecture with low latency + high reliability (speed optimizations, rollback, etc)
+* Implements lazy/optimistic loading
 
 **README: up to 1 point**  
 1 Point: Well-written README
