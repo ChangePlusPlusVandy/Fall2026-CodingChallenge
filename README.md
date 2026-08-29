@@ -31,3 +31,47 @@ This goes along with good style. We want to see your ability to develop maintain
 
 **(4) Creativity**  
 Change++ members are people who use creativity and initiative to get things done. There will likely be plenty of applicants who attempt this challenge, so it will benefit you to make your program stand out.
+
+**The Challenge**  
+Sometimes you find something online that you absolutely love. You save it somewhere, forget where you saved it, and then spend 20 minutes trying to find it again.
+
+Your goal is to build a **Image Saving/Sharing App** where users can discover, save, organize, and share content with others.
+
+Users can create their own **collections**, save content to those collections, and collaborate with other users to build collections together.
+
+Your application should allow users to:
+
+- Create individual boards/collections
+- Search for images or other content
+- **Pin/save** content to their collections
+- Remove content from collections
+- View their own collections
+- View other users' collections
+- Share collections with other users
+- Join collaborative collections
+- Add and remove content from collaborative collections
+- Make the application look **good**
+
+You can take inspiration from existing applications of this nature like Pinterest or make or own interpretation, **No option is necessarily better than the others.**
+
+## Deliverables 
+**Frontend**  
+The frontend serves as the way that a user would interact with your program and play the game. You have a lot of flexibility in terms of how you choose to build it ranging from a simple executable (ran from the terminal) to a website, app, or any (reasonable) technology you can think of. Feel free to get creative with styling components\!
+
+**Backend**  
+The backend consists of a RESTful API that can be accessed by the frontend and should do the following:
+
+* Be a separate server from the frontend.  
+* Endpoints to create posts, get posts, like/unlike posts and add/view comments.  
+* Store posts in some sort of data structure. Bonus if you store it in a database\!
+
+**README**  
+Aside from adding, committing, and pushing your files to the repo, include a README.txt. INCLUDE YOUR FULL NAME AND VANDERBILT EMAIL IN THE README. A README is helpful because:
+
+* We need information about how to download and run your program, especially if you are using an unconventional programming method. Please write down some instructions for us to follow to properly see your program.  
+* We want you to include a brief (under 100 words) reflection about the challenge. Did you learn anything new? Reinforce any known concepts? Any issues come up?  
+* We are interested in any feedback you provide about the coding challenge. If you have any critiques for us; workshops, office hours, or any part of the challenge itself, please let us know.
+
+**Completion Form**
+
+For your challenge to be considered complete, you must submit this short form: 
