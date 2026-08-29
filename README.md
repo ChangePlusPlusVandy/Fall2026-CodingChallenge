@@ -127,3 +127,31 @@ Some EC features could be:
 **Completion form:** required for the application to be considered complete!
 
 
+
+## Tips, Tricks, and Helpful Resources
+
+**We will be holding workshops and office hours to help you out. The following are the dates for these workshops :**
+1. **Workshop (project overview, Git, and backend):** September 4th, 7:00 PM in FGH 110
+2. **Office Hours:** TBA
+
+**If you have any general questions or want advice on how to get started/learn something, please email both Leo Zhang & Helen Wu at leo.t.zhang@vanderbilt.edu & helen.wu@vanderbilt.edu (in one email) **
+
+<ul>
+  <li>DO NOT TRY TO USE C++ FOR THIS PROJECT! We will be impressed if you manage to pull it off but it would also be really hard. Python or JavaScript are probably the easiest language to use to meet the base requirements and is not that hard to learn for someone who knows C++. Java is also doable, but might be slightly harder.</li>
+  <li>We are trying to simulate "real world development" in this project so Google is definitely your friend. Be resourceful!! (Specifically, if you don't know where to start, you can google how to make an API in Python/JavaScript/etc)</li>
+  <li>RESTful API
+    <ul>
+      <li>If you have never made an API before, it might seem fairly tricky. It is supposed to be a bit challenging, but definitely achievable and should not require a massive amount of code. There is a working solution of the backend written in less than 50 lines of code (note that it is totally ok if your solution is longer and a shorter solution is not necessarily a better solution, aim for clarity in your code).</li>
+      <li>If you want to write an API, my first suggestion would be to google "how to write an API in {language of choice}". Follow a tutorial and copy paste some code and work with it until you generally understand what it is doing, then try to modify it to work for this project</li>
+      <li>For a general explanation of what RESTful APIs are and how they work, check out this link: https://searchapparchitecture.techtarget.com/definition/RESTful-API</li>
+    </ul>
+  </li>
+  <li>Git
+    <ul>
+      <li>If you have never used git before it might seem a little daunting but it is actually, for this project at least, fairly straightforward. If you have any specific issues with it, try google and if you still can't figure it out, email leo.t.zhang@vanderbilt.edu for help</li>
+      <li>If you want a basic tutorial on Git, check out this link: https://hackernoon.com/understanding-git-fcffd87c15a3</li>
+      <li>To get you on the right track, the only commands you should need to use for this are `git clone {repo}`, `git add .`, `git commit -m "message"`, and `git push`</li>
+    </ul>
+  </li>
+  <li>Good luck! We believe in you, and are excited to see what you create!</li>
+</ul>
