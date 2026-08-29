@@ -75,3 +75,55 @@ Aside from adding, committing, and pushing your files to the repo, include a REA
 **Completion Form**
 
 For your challenge to be considered complete, you must submit this short form: 
+
+
+
+## Scoring
+
+**Frontend Framework: 5pts**  
+1 Point: No framework and not responsive (raw HTML and JS)  
+2 Points: React, Vue, or Angular used and not responsive  
+3 Points: React, Vue or Angular used with component library (responsive)  
+4 Points: React, Vue or Angular used with vanilla CSS (responsive)  
+5 Points: React, Vue or Angular used with more complex, vanilla CSS (responsive)
+
+**Frontend Coding Style: up to 3 points**  
+1 Point: Code works but minimal organization  
+2 Points: Components structured logically, basic comments, consistent formatting  
+3 Points: Clean, modular components, meaningful commit messages, consistent style throughout
+
+**Backend Framework: up to 3 points**  
+2 Points: Django, Flask, Spring Boot, or other non-JS backend framework  
+3 Points: Node.js (Express) or Next.js used
+
+**Backend Coding Style: up to 3 points**  
+1 Point: Routes work but little organization or comments  
+2 Points: Routes separated, consistent naming, readable code  
+3 Points: Well-structured project (routes, middleware, db schema), documented endpoints, clear error handling
+
+**Core Features: up to 3 points**  
+1 Point: Posts only (no likes or comments)  
+3 Points: Posts, likes and comments working fully
+
+**Data Handling: up to 5 points**  
+1 Point: In-memory storage only (resets on refresh)  
+3 Points: JSON/TXT storage  
+5 Points: MongoDB/SQL/etc… database usage
+
+**Aesthetics: up to 3 points**  
+1 Point: Plain but functional UI  
+2 Points: Some styling, responsive layout  
+3 Points: Polished look (consistent styling, responsive, feels like a real app)
+
+**Creativity / Bonus Features: up to 7 points**  
+Some EC features could be:
+
+* Hashtags  
+* Editing comments
+
+**README: up to 1 point**  
+1 Point: Well-written README
+
+**Completion form:** required for the application to be considered complete!
+
+
