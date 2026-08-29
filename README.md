@@ -119,7 +119,7 @@ Necessary - Gameplay works <br>
 Some EC features could be:
 
 * Private/Public Collection toggling
-* Notifications on edit
+* Notifications on edit for shared collections
 * Attempt to achieve architecture with low latency + high reliability (speed optimizations, rollback, etc)
 * Implements lazy/optimistic loading
 
