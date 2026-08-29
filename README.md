@@ -131,10 +131,10 @@ Some EC features could be:
 ## Tips, Tricks, and Helpful Resources
 
 **We will be holding workshops and office hours to help you out. The following are the dates for these workshops :**
-1. **Workshop (project overview, Git, and backend):** September 4th, 7:00 PM in FGH 110
-2. **Office Hours:** TBA
+1. **Workshop (project overview, Git, and backend):** September 15th, 7:00 PM in FGH 110
+2. **Office Hours:** September 16th
 
-**If you have any general questions or want advice on how to get started/learn something, please email both Leo Zhang & Helen Wu at leo.t.zhang@vanderbilt.edu & helen.wu@vanderbilt.edu (in one email) **
+**If you have any general questions or want advice on how to get started/learn something, please email both Ashrit Anala & Sophie Zhuang at ashrit.ram.anala@vanderbilt.edu & sophie.x.zhuang@vanderbilt.edu (in one email) **
 
 <ul>
   <li>DO NOT TRY TO USE C++ FOR THIS PROJECT! We will be impressed if you manage to pull it off but it would also be really hard. Python or JavaScript are probably the easiest language to use to meet the base requirements and is not that hard to learn for someone who knows C++. Java is also doable, but might be slightly harder.</li>
