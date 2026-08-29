@@ -81,11 +81,11 @@ For your challenge to be considered complete, you must submit this short form:
 ## Scoring
 
 **Frontend Framework: 5pts**  
-1 Point: No framework and not responsive (raw HTML and JS)  
-2 Points: React, Vue, or Angular used and not responsive  
-3 Points: React, Vue or Angular used with component library (responsive)  
-4 Points: React, Vue or Angular used with vanilla CSS (responsive)  
-5 Points: React, Vue or Angular used with more complex, vanilla CSS (responsive)
+Necessary - Gameplay works
+1 Point: No framework used (raw HTML/CSS)
+3 Points Possible: React, Vue or Angular used
+4 Point Possible: React, Vue or Angular used with Typescript OR a component library
+5 Points Possible: React, Vue or Angular used with Typescript AND a component library
 
 **Frontend Coding Style: up to 3 points**  
 1 Point: Code works but minimal organization  
