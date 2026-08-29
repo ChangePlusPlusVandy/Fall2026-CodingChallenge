@@ -37,7 +37,7 @@ Sometimes you find something online that you absolutely love. You save it somewh
 
 Your goal is to build a **Image Saving/Sharing App** where users can discover, save, organize, and share content with others.
 
-Users can create their own **collections**, save and edit content in those collections, and collaborate with other users to build collections together.
+Users can create their own **collections**, save and edit content in those collections.
 
 Your application should allow users to:
 
@@ -46,13 +46,11 @@ Your application should allow users to:
 - **save/edit** content in their collections
 - Remove content from collections
 - View their own collections
-- View other users' collections
-- Share collections with other users
-- Join collaborative collections
-- Add and remove content from collaborative collections
 - Make the application look **good**
 
 You can take inspiration from existing applications of this nature like Pinterest or make your own interpretation, **No option is necessarily better than the others.**
+
+To get your images you you can refer to this API documentation https://pixabay.com/api/docs/ or any other APIs and methods you're comfortable with.
 
 ## Deliverables 
 **Frontend**  
