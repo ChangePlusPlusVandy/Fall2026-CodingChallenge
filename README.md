@@ -148,7 +148,7 @@ Some EC features could be:
   </li>
   <li>Git
     <ul>
-      <li>If you have never used git before it might seem a little daunting but it is actually, for this project at least, fairly straightforward. If you have any specific issues with it, try google and if you still can't figure it out, email leo.t.zhang@vanderbilt.edu for help</li>
+      <li>If you have never used git before it might seem a little daunting but it is actually, for this project at least, fairly straightforward. If you have any specific issues with it, try google and if you still can't figure it out, email ashrit.ram.anala@vanderbilt.edu or sophie.x.zhuang@vanderbilt.edu for help</li>
       <li>If you want a basic tutorial on Git, check out this link: https://hackernoon.com/understanding-git-fcffd87c15a3</li>
       <li>To get you on the right track, the only commands you should need to use for this are `git clone {repo}`, `git add .`, `git commit -m "message"`, and `git push`</li>
     </ul>
