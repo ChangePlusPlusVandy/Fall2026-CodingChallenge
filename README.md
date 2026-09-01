@@ -64,7 +64,7 @@ The backend consists of a RESTful API that can be accessed by the frontend and s
 * Store collections in some sort of data structure. Props if you store it in a database\!
 
 **README**  
-Aside from adding, committing, and pushing your files to the repo, include a README.txt. INCLUDE YOUR FULL NAME AND VANDERBILT EMAIL IN THE README. A README is helpful because:
+Aside from adding, committing, and pushing your files to the repo, include a README.txt (not .md). INCLUDE YOUR FULL NAME AND VANDERBILT EMAIL IN THE README. A README is helpful because:
 
 * We need information about how to download and run your program, especially if you are using an unconventional programming method. Please write down some instructions for us to follow to properly see your program.  
 * We want you to include a brief (under 100 words) reflection about the challenge. Did you learn anything new? Reinforce any known concepts? Any issues come up?  
@@ -122,7 +122,7 @@ Some EC features could be:
 * Implements lazy/optimistic loading
 
 **README: up to 1 point**  
-1 Point: Well-written README
+1 Point: Well-written README.txt
 
 **Completion form:** required for the application to be considered complete!
 
