@@ -72,7 +72,7 @@ Aside from adding, committing, and pushing your files to the repo, include a REA
 
 **Completion Form**
 
-For your challenge to be considered complete, you must submit this short form: https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=OX9aur7js0q0UGf6gPrsrYRkeEM7pfBCvg8KmlqHcu1UMzlLTjk3U0lUODM0MDQwWDBSUUoxVVFNSC4u
+For your challenge to be considered complete, you must submit this short form: https://forms.gle/JfR4cwAEwn4HhBuX8.
 
 
 
