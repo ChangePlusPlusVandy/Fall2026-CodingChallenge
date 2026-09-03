@@ -4,6 +4,9 @@ Remember to submit [this form](https://forms.gle/JfR4cwAEwn4HhBuX8) when complet
 
 Please read this document **CAREFULLY** and to its **ENTIRETY**\!
 
+**SETUP INSTRUCTIONS**
+To begin programming, fork this repository by clicking the *fork* button on the top right of this repository (directly across from the name of the repository and in between *watch* and *star*. This creates your own version of the repository with these instructions on your own user account that you can freely edit and contribute to. You will link this forked repository when you submit the form above.
+
 **Before You Begin**  
 The first step is completing the following coding project. 
 
