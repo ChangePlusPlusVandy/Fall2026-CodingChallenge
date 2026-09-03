@@ -1,5 +1,6 @@
 # ChangePlusPlus Fall 2026 Coding Challenge
-***Due 9/18 at 11:59 PM (CT)***
+***Due 9/18 at 11:59 PM (CT)***. 
+Remember to submit [this form](https://forms.gle/JfR4cwAEwn4HhBuX8) when complete.
 
 Please read this document **CAREFULLY** and to its **ENTIRETY**\!
 
