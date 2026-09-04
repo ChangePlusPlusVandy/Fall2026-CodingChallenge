@@ -7,6 +7,8 @@ Please read this document **CAREFULLY** and to its **ENTIRETY**\!
 **SETUP INSTRUCTIONS**<br>
 To begin programming, fork this repository by clicking the **fork** button on the top right of this repository (directly across from the name of the repository and in between *watch* and *star*). This creates your own version of the repository with these instructions on your own user account that you can freely edit and contribute to. You will link this forked repository when you submit the form above.
 
+If you're unsure of where or how to start, you can look into setting up your repository with [Vite](https://vite.dev/) and selecting React as the framework when prompted with a [Node.js](https://nodejs.org/en) backend or any other option you have in mind (No choice is better than another, do what you're comfortable with). These will come pre-built with some starter code you can look into to give you an idea of the fundamentals and you can work your way up from there!
+
 **Before You Begin**  
 The first step is completing the following coding project. 
 
@@ -54,7 +56,7 @@ Your application should allow users to:
 
 You can take inspiration from existing applications of this nature like Pinterest or make your own interpretation, **No option is necessarily better than the others.**
 
-To get your images you you can refer to this API documentation https://pixabay.com/api/docs/ or any other APIs and methods you're comfortable with.
+To get your images you you can refer to this API documentation [Pixabay API](https://pixabay.com/api/docs/) or any other APIs and methods you're comfortable with.
 
 ## Deliverables 
 **Frontend**  
@@ -76,7 +78,7 @@ Aside from adding, committing, and pushing your files to the repo, include a REA
 
 **Completion Form**
 
-For your challenge to be considered complete, you must submit this short form: https://forms.gle/JfR4cwAEwn4HhBuX8.
+For your challenge to be considered complete, you must submit this short form: [Completion Form](https://forms.gle/JfR4cwAEwn4HhBuX8).
 
 
 
@@ -142,7 +144,7 @@ Some EC features could be:
 
 <ul>
   <li>DO NOT TRY TO USE C++ FOR THIS PROJECT! We will be impressed if you manage to pull it off but it would also be really hard. Python or JavaScript are probably the easiest language to use to meet the base requirements and is not that hard to learn for someone who knows C++. Java is also doable, but might be slightly harder.</li>
-  <li>We are trying to simulate "real world development" in this project so Google is definitely your friend. Be resourceful!! (Specifically, if you don't know where to start, you can google how to make an API in Python/JavaScript/etc)</li>
+  <li>We are trying to simulate "real world development" in this project so Google/LLMs are definitely your friend. Be resourceful!! (Specifically, if you don't know where to start, you can google how to make an API in Python/JavaScript/etc)</li>
   <li>RESTful API
     <ul>
       <li>If you have never made an API before, it might seem fairly tricky. It is supposed to be a bit challenging, but definitely achievable and should not require a massive amount of code. There is a working solution of the backend written in less than 50 lines of code (note that it is totally ok if your solution is longer and a shorter solution is not necessarily a better solution, aim for clarity in your code).</li>
